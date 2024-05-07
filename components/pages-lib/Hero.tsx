@@ -2,7 +2,7 @@ import styles from "@styles/style";
 
 const Hero: React.FC = () => {
   return (
-    <div>
+    <div className={`${styles.heading2} text-center`}>
       <h2 className="lg:text-[50px] md:text-[40px] flex-1 font-semibold ss:text-[72px] text-[40px] text-white ss:leading-[100px]">
         Sports and Athlete Management on the grand stages
       </h2>

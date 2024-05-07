@@ -40,7 +40,7 @@ export const feedback = [
     {
         id: "feedback-1",
         content:
-            "At StarForge, our vision is simple: To be the driving force behind every athlete's journey to greatness.",
+            "At StarForge, our vision is simple- To be the driving force behind every athlete's journey to greatness.",
         name: "Emmanuel O. Osilade",
         title: "Founder & CEO",
         img: star,
@@ -50,15 +50,15 @@ export const feedback = [
         content:
             "StarForge is at the forefront of sports. Together, we'll redefine athlete management and inspire a new era of excellence in sports..",
         name: "Gideon Chino Iduma",
-        title: "Board Director & COO",
+        title: "Board Director & CTO",
         img: star,
     },
     {
         id: "feedback-2",
         content:
-            "At StarForge, we're laser-focused on one goal: to streamline athlete management and maximize their potential",
+            "At StarForge, we're laser-focused on one goal- to streamline athlete management and maximize their potential",
         name: "Humphrey Atteng",
-        title: "Manager",
+        title: "Manager & COO",
         img: star,
     },
 ];

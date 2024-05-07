@@ -9,7 +9,7 @@ const MeetTheTeam: React.FC = () => (
   >
     <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient" />
     <div className="w-full flex justify-between items-center md:flex-row flex-col sm:mb-10 mb-6 relative z-[1]">
-      <h1 className={styles.heading2}>Meet the Team</h1>
+      <h1 className={styles.heading2}>Tune in to the Core</h1>
       <div className="w-full md:mt-0 mt-6">
         <p className={`${styles.paragraph} text-left max-w-[450px]`}>
           Everything you need to know about the management and their vision
